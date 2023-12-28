@@ -145,7 +145,54 @@
       "quickSearch": 1,
       "changeable": 1
     },
-
+     {
+      "key": "淘片资源",
+      "name": "淘片",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+     {
+      "key": "csp_Ikanbot",
+      "name": "爱看Bot",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "[排序:lz线路,kuaik]",
+      "jar": "http://itvbox.cc/sft/Hk/Hk.jar;md5;0447a0d325220bd0c001c2a0fa0e69fa"
+    },
+     {
+       "key":"瑞丰",
+       "name":"瑞丰",
+       "type":3,
+       "api":"csp_AppYsV2",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1,
+       "ext":"http://www.miniku.cc/xgapp.php/v2/",
+       "jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+       },
+   
+  {
+      "key": "畅梦",
+      "name": "畅梦秒播",
+      "type": 3,
+      "api": "./lib/drpy1.min.js",
+      "ext": "./lib/changmeng.js"
+    },
+    {
+      "key": "feiyun",
+      "name": "飞云",
+      "type": 3,
+      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+      "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/fy.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
 {"key":"drpy_js_9U电影","name":"起飞 | 9U电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/9U电影.js"},
 {"key":"drpy_js_大师兄影视","name":"起飞 | 大师兄影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大师兄影视.js"},
 {"key":"drpy_js_起飞影院","name":"起飞 | 起飞影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/起飞影院.js"},
